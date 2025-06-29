@@ -1,2 +1,0 @@
-# blaustift
-blaustift.com
